@@ -20,7 +20,9 @@
   <br><br/> 
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
+  <br><br/> 
+  <br><br/> 
   
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taelims&layout=compact&theme=tokyonight)
 </div>
 
